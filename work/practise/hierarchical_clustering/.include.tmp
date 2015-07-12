@@ -1,0 +1,8 @@
+mpic++
+-o
+hierachical_clustering
+main.o
+compute.o:
+command
+not
+found

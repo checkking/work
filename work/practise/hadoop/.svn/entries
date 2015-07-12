@@ -1,0 +1,77 @@
+10
+
+dir
+0
+https://svn.baidu.com/myspace/inf/chenkang02/practise/hadoop
+https://svn.baidu.com/myspace
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+input
+dir
+
+
+
+add
+
+part-00000
+file
+
+
+
+add
+
+mapper.cpp
+file
+
+
+
+add
+
+itermidate
+file
+
+
+
+add
+
+logjoin.sh
+file
+
+
+
+add
+
+reducer.cpp
+file
+
+
+
+add
+
+result
+file
+
+
+
+add
+

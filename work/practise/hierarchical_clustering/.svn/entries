@@ -1,0 +1,105 @@
+10
+
+dir
+0
+https://svn.baidu.com/myspace/inf/chenkang02/practise/hierarchical_clustering
+https://svn.baidu.com/myspace
+add
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+c4ccc3fd-b13d-49bf-a705-f618d8f4424a
+
+point.h
+file
+
+
+
+add
+
+pair.h
+file
+
+
+
+add
+
+compute.h
+file
+
+
+
+add
+
+run_mpi.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+main.cpp
+file
+
+
+
+add
+
+submit.sh
+file
+
+
+
+add
+
+
+
+
+
+has-props
+has-prop-mods
+
+compute.cpp
+file
+
+
+
+add
+
+Makefile
+file
+
+
+
+add
+
+result.log
+file
+
+
+
+add
+

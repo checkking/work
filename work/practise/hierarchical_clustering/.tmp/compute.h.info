@@ -1,0 +1,11 @@
+23 0 23 0 0 clustering
+30 0 30 0 0 find_shortest_pair
+35 0 35 0 0 compareX
+40 0 40 0 0 compareY
+45 0 45 0 0 remove
+50 0 50 0 0 merge_output
+55 0 55 0 0 distance
+61 0 61 0 0 find_min_ge
+66 0 66 0 0 find_max_le
+73 0 73 0 0 shortest_of_boundary
+78 0 78 0 0 random_generate_points

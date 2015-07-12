@@ -1,0 +1,3 @@
+/home/chenkang/btest/bin/gen_makefile.sh: line 230: mpic++ -c -Wall main.cpp
+mpic++ -c -Wall compute.cpp
+mpic++ -o hierachical_clustering main.o compute.o: command not found
